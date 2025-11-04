@@ -147,12 +147,16 @@ Het maken van de animatie met Javascript voor mijn H1/H2 tekst en img.
   1. [CodePen grid](https://codepen.io/shooft/pen/KwdZPMP)
   2. [CodePen Intersection observer, maken van animatie](https://codepen.io/Nienke-the-styleful/pen/zYgYomN)
   3. [ChatGPT](https://chatgpt.com/?model=auto)
-  4. [CSS-tricks Text-shadow](https://css-tricks.com/almanac/properties/t/text-shadow/)
-  5. [CSS-tricks flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  6. [CSS-tricks details/summary](https://css-tricks.com/using-styling-the-details-element/)
-  7. [W3Schools dropdown navigatie menu met java](https://www.w3schools.com/howto/howto_js_dropdown.asp)
-  8. [Mdn position absolute](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-  9. [CSS-tricks responsive maken](https://css-tricks.com/almanac/rules/m/media/)
+  4. [ChatGPT overflow-hidden](https://chatgpt.com/share/6909f714-926c-800f-a2b6-0d40ed5bd285)
+  5. [ChatGPT transition](https://chatgpt.com/share/6909fb03-7680-800f-8608-4c99e388d6d8)
+  6. [ChatGPT flexbox](https://chatgpt.com/share/6909fb62-4458-800f-a050-6340a16bb72e)
+  7. [ChatGPT z-index](https://chatgpt.com/share/6909fbb9-0014-800f-b7ac-44f36d9f728d)
+  8. [CSS-tricks Text-shadow](https://css-tricks.com/almanac/properties/t/text-shadow/)
+  9. [CSS-tricks flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  10. [CSS-tricks details/summary](https://css-tricks.com/using-styling-the-details-element/)
+  11. [W3Schools dropdown navigatie menu met java](https://www.w3schools.com/howto/howto_js_dropdown.asp)
+  12. [Mdn position absolute](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+  13. [CSS-tricks responsive maken](https://css-tricks.com/almanac/rules/m/media/)
   10.[DLO]
 
 </details>
