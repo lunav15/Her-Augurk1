@@ -100,6 +100,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - De heading element correct gebruikt.
     Bevinding:
   - Wat mij opviel is dat als ik de "voice over" aanzet in mijn instellingen en ik naar mijn website ga dat de computer mij goed door de pagina heen kan navigeren.
+
+
     <img src="readme-images/WCAG.png" width="375px" alt="WCAG checklist">
 
 </details>
